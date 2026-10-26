@@ -70,7 +70,7 @@ firebase deploy --only hosting
 firebase deploy --only functions
 ```
 
-> **Note:** Personal photos (`src/site/images/*_N.jpg`, `*_og.jpg`) are git-ignored and not stored in this repo. Place them in `src/site/images/` locally before deploying hosting.
+> **Note:** Personal photos (`src/site/images/*_N.jpg`, `*_og.jpg`, `favicon.png`) are git-ignored and not stored in this repo. Place them in `src/site/images/` locally before deploying hosting.
 
 ## Local Development
 

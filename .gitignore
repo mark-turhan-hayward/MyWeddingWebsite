@@ -30,6 +30,7 @@ Thumbs.db
 src/site/images/*_[0-9].jpg
 src/site/images/*_og.jpg
 src/site/images/photo*.jpg
+src/site/images/favicon.png
 
 # Logs
 *.log
