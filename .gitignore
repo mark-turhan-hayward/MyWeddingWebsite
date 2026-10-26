@@ -26,6 +26,11 @@ node_modules/
 .DS_Store
 Thumbs.db
 
+# Personal photos - kept locally and deployed to Firebase Hosting only
+src/site/images/*_[0-9].jpg
+src/site/images/*_og.jpg
+src/site/images/photo*.jpg
+
 # Logs
 *.log
 firebase-debug.log
